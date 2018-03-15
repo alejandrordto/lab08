@@ -1,1 +1,1 @@
-https://circleci.com/gh/:owner/:repo.png?circle-token=:circle-token
+[![CircleCI](https://circleci.com/gh/car-cas/lab08.svg?style=svg)](https://circleci.com/gh/car-cas/lab08)
